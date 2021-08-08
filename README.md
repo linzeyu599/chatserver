@@ -1,0 +1,2 @@
+# chatserver
+可以工作在nginx tcp负载均衡环境中的基于muduo库的集群聊天服务器和客户端，使用json进行数据的序列化和反序列化，基于redis的发布订阅消息队列
